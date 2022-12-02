@@ -21,3 +21,7 @@ Whoops, I should have pushed my Initial commit. Now it seems only my second comm
 # Glad this is practice
 
 Okay, I'm going to add, commit, and push again. . .
+
+# Lets add some more first
+
+I hope no one reads this. . .
